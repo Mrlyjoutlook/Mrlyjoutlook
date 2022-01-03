@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/Mrlyjoutlook/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrlyjoutlook)](https://github.com/Mrlyjoutlook/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrlyjoutlook&layout=compact)](https://github.com/Mrlyjoutlook/github-readme-stats)
